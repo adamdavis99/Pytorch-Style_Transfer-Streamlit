@@ -12,4 +12,6 @@ Made with Streamlit ❤️
 
 ![](54le16.gif)
 
+### Some beautiful stylised images created with this web-app
 
+![amber](images/output-images/output.jpeg)
