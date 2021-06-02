@@ -30,7 +30,7 @@ Everyone is not born an artist. But that should not stop people like you and me 
 ### Basic overview of how style transfer works
 In general, deep learning architectures suitable for style transfer are based on variations of convolutional neural networks (CNNs). 
 
-Training a style transfer model requires two networks: a pre-trained feature extractor and a transfer network. The pre-trained feature extractor is used to avoid having to us paired training data. It’s usefulness arises from the curious tendency for individual layers of deep convolutional neural networks trained for image classification to specialize in understanding specific features of an image.
+Training a style transfer model requires two networks: a pre-trained feature extractor and a transformer network. The pre-trained feature extractor is used to avoid having to us paired training data. It’s usefulness arises from the curious tendency for individual layers of deep convolutional neural networks trained for image classification to specialize in understanding specific features of an image.
 
 ![What different layers of a CNN learn](https://i.stack.imgur.com/5yGWY.png)
 
